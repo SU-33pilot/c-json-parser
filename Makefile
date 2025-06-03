@@ -30,7 +30,3 @@ rebuild: clean all
 
 .PHONY: all clean rebuild
 
-run: myprogram
-	./bin/myprogram
-
-
